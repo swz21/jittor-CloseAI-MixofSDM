@@ -1,0 +1,1 @@
+python test.py --input_path /root/data/train_resized --img_path /root/data/val_B_labels_resized --output_path ./results
